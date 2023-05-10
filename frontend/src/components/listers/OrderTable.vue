@@ -74,6 +74,7 @@
                     { text: "price", value: "price" },
                     { text: "cost", value: "cost" },
                     { text: "status", value: "status" },
+                    { text: "storeId", value: "storeId" },
                 ],
             order : [],
             newValue: {},
@@ -98,6 +99,7 @@
                 'price': 0,
                 'cost': 0,
                 'status': '',
+                'storeId': '',
             }
         },
         methods: {

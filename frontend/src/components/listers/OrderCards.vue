@@ -75,6 +75,7 @@
                 'price': 0,
                 'cost': 0,
                 'status': '',
+                'storeId': '',
             }
         },
         methods:{
