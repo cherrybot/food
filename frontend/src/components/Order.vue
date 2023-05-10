@@ -24,6 +24,7 @@
             <Number label="Price" v-model="value.price" :editMode="editMode"/>
             <Number label="Cost" v-model="value.cost" :editMode="editMode"/>
             <String label="Status" v-model="value.status" :editMode="editMode"/>
+            <String label="StoreId" v-model="value.storeId" :editMode="editMode"/>
         </v-card-text>
 
         <v-card-actions>
