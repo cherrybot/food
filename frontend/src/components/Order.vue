@@ -20,7 +20,7 @@
             <String label="CustomerId" v-model="value.customerId" :editMode="editMode"/>
             <String label="FoodId" v-model="value.foodId" :editMode="editMode"/>
             <String label="Address" v-model="value.address" :editMode="editMode"/>
-            <String label="Qty" v-model="value.qty" :editMode="editMode"/>
+            <Number label="Qty" v-model="value.qty" :editMode="editMode"/>
             <Number label="Price" v-model="value.price" :editMode="editMode"/>
             <Number label="Cost" v-model="value.cost" :editMode="editMode"/>
             <String label="Status" v-model="value.status" :editMode="editMode"/>
