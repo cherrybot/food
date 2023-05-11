@@ -22,7 +22,7 @@ public class Order {
 
     private String address;
 
-    private String qty;
+    private Long qty;
 
     private Long price;
 

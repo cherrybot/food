@@ -95,7 +95,7 @@
                 'customerId': '',
                 'foodId': '',
                 'address': '',
-                'qty': '',
+                'qty': 0,
                 'price': 0,
                 'cost': 0,
                 'status': '',
